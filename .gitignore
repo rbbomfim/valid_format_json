@@ -7,8 +7,8 @@
 *.py[cod]
 
 # Virtual Python Environment
-venv
-notevenv
+venv/
+notevenv/
 __pycache__/
 .vscode
 
